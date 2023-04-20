@@ -1,4 +1,4 @@
-<h1>¡Hey! Soy Dani</h1>
+<h1>👋🏽 ¡Hey! Soy Dani</h1>
 <h3>Un desarrollador de software apasionado por la tecnología, el diseño y la música. Para mí, la programación es más que un trabajo, es una forma de arte que me permite crear soluciones únicas y resolver problemas de manera creativa.</h3>
 
 - 🔭 Tengo experiencia con los stacks MERN y PERN, además de tecnologías como, TypeScript, GitHub, React Native, Java y Python.
